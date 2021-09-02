@@ -4,6 +4,6 @@ This is a web-based application I created using react native and deployed into f
 Despite technological advances, today's blood bank systems work manually and there is a lack of adequate information about the donor. The goal of this project is to create a web-based system that has the capacity to avoid intermediaries and make it easy for users to connect donors and beneficiaries.
 
 <h2>NPM packages used for this project</h2>
-1. React native
-2. Tinder Cards
-3. Material UI
+1. React native <br>
+2. Tinder Cards <br>
+3. Material UI <br>
