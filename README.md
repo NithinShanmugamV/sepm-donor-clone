@@ -7,3 +7,7 @@ Despite technological advances, today's blood bank systems work manually and the
 1. React native <br>
 2. Tinder Cards <br>
 3. Material UI <br>
+
+<h2>Azure Services Used:</h2>
+Web App - Deployed Front End
+Cosmos DB - Used "Azure Cosmos DB API for MongoDB" to store data
